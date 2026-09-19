@@ -13,14 +13,16 @@ If you want to contribute, open issues on **gudcal-core**, not the private SaaS 
 
 ## Also listed on [gudlab.org](https://gudlab.org)
 
-| Product | Public repo |
-|---------|-------------|
-| GudCal | [gudcal-core](https://github.com/gudlab/gudcal-core) |
-| GudForm | [gudform-core](https://github.com/gudlab/gudform-core) |
-| GudDesk | [guddesk-core](https://github.com/gudlab/guddesk-core) |
+| Product | Public GitHub |
+|---------|---------------|
+| GudCal | source-available: [gudcal-core](https://github.com/gudlab/gudcal-core) |
+| GudForm | source-available: [gudform-core](https://github.com/gudlab/gudform-core) |
+| GudDesk | source-available: [guddesk-core](https://github.com/gudlab/guddesk-core) |
 | GudAgent | [gud-agent](https://github.com/gudlab/gud-agent) |
 | LaunchReel | [launchreel](https://github.com/gudlab/launchreel) |
-| Gud API | [gud-api](https://github.com/gudlab/gud-api) · [gud-api-mcp](https://github.com/gudlab/gud-api-mcp) |
-| GudDB | [guddb-database-client](https://github.com/gudlab/guddb-database-client) |
+| Gud API | proprietary editor extension — issues: [gud-api](https://github.com/gudlab/gud-api) · public MCP: [gud-api-mcp](https://github.com/gudlab/gud-api-mcp) |
+| GudDB | proprietary editor extension — issues: [guddb-database-client](https://github.com/gudlab/guddb-database-client) |
+
+Gud API and GudDB are **not** open source. Marketplace / Open VSX GitHub links should land on those issue repos (source is closed) or on `gud-api-mcp` (the public MCP server).
 
 Community: [discord.gg/gudlab](https://discord.gg/gudlab)
